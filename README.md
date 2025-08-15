@@ -37,7 +37,29 @@
 </div>
 
 
+
 ## Section D - Question 2
+
+**Live Demo:** [digital-exam-system.vercel.app](https://digital-exam-system.vercel.app/)
+
+**GitHub Repository:** [NavyaNayer/AI-Exam-System](https://github.com/NavyaNayer/AI-Exam-System)
+
+**Web App Screenshots:**
+
+<div align="center">
+    <img src="landing-exam.png" alt="Landing Exam Screen" width="350" />
+    <br><b>Landing Exam Screen</b>
+</div>
+
+<div align="center">
+    <img src="exam-screen.png" alt="Exam Screen" width="350" />
+    <br><b>Exam Screen</b>
+</div>
+
+<div align="center">
+    <img src="faculty-exam.png" alt="Faculty Dashboard" width="350" />
+    <br><b>Faculty Dashboard</b>
+</div>
 
 
 
