@@ -1,9 +1,34 @@
 
 <div align="center">
-<h1>Submitted by <span style="color:#1976d2;">Navya Nayer</span></h1>
+<h1>Submitted by Navya Nayer</h1>
 </div>
 
+
 ## Section D - Question 1
+
+**Live Demo:** [ai-ques-generator.vercel.app](https://ai-ques-generator.vercel.app/)
+
+**GitHub Repository:** [NavyaNayer/AI_Ques_Generator](https://github.com/NavyaNayer/AI_Ques_Generator)
+
+**Key Features:**
+- AI-powered question generation with multiple types, difficulty levels, and customizable topics
+- Export questions in various formats
+- Professional code editor (Monaco) with syntax highlighting, IntelliSense, and multi-language support
+- Real-time code execution via Judge0 API for 6+ languages, with stats and error handling
+- Student analytics: progress tracking, history, performance metrics, exportable reports
+- Multi-role system: Teacher portal (create/manage/analyze), Student portal (practice/track), role-based access
+- Modern UI: neon colors, animated effects, glassmorphism, responsive dark theme
+
+**Portal Screenshots:**
+
+<img src="landing-portal.png" alt="Landing Portal" width="350" />
+<div align="center"><b>Landing Portal</b></div>
+
+<img src="student-portal.png" alt="Student Portal" width="350" />
+<div align="center"><b>Student Portal</b></div>
+
+<img src="teacher-portal.png" alt="Teacher Portal" width="350" />
+<div align="center"><b>Teacher Portal</b></div>
 
 
 ## Section D - Question 2
