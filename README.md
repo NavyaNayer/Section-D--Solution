@@ -1,6 +1,6 @@
 
-<div align="center" style="border:2px solid #1976d2; background:#f5faff; border-radius:10px; padding:16px; margin-bottom:24px;">
-    <h1 style="margin:0; font-size:2.2em; font-family:Segoe UI,Arial,sans-serif; color:#222;">Submitted by <span style="color:#1976d2;">Navya Nayer</span></h1>
+<div align="center">
+<h1>Submitted by <span style="color:#1976d2;">Navya Nayer</span></h1>
 </div>
 
 ## Section D - Question 1
