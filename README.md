@@ -21,14 +21,20 @@
 
 **Portal Screenshots:**
 
-<img src="landing-portal.png" alt="Landing Portal" width="350" />
-<div align="center"><b>Landing Portal</b></div>
+<div align="center">
+    <img src="landing-portal.png" alt="Landing Portal" width="350" />
+    <br><b>Landing Portal</b>
+</div>
 
-<img src="student-portal.png" alt="Student Portal" width="350" />
-<div align="center"><b>Student Portal</b></div>
+<div align="center">
+    <img src="student-portal.png" alt="Student Portal" width="350" />
+    <br><b>Student Portal</b>
+</div>
 
-<img src="teacher-portal.png" alt="Teacher Portal" width="350" />
-<div align="center"><b>Teacher Portal</b></div>
+<div align="center">
+    <img src="teacher-portal.png" alt="Teacher Portal" width="350" />
+    <br><b>Teacher Portal</b>
+</div>
 
 
 ## Section D - Question 2
