@@ -1,9 +1,6 @@
 
-
 <div align="center">
-  
-    <h2>Submitted by <span style="color:#1976d2;">Navya Nayer</span></h2>
-
+<h2>Submitted by <span style="color:#1976d2;">Navya Nayer</span></h2>
 </div>
 
 # Section D - Question 1
